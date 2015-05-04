@@ -1,0 +1,354 @@
+<?xml version="1.0"?> 
+<data> 
+    <osoba id="0"> 
+        <name>Eustachy</name>
+        <surname>Nołskołp</surname>
+        <sex>Mężczyzna</sex>
+        <dateofbirth>1206-12-22</dateofbirth>
+    </osoba> 
+    <osoba id="1"> 
+        <name>Barbara</name>
+        <surname>N'mir</surname>
+        <sex>Kobieta</sex>
+        <dateofbirth>1194-12-18</dateofbirth>
+        <number>102455799</number>
+        <number>753588040</number>
+    </osoba> 
+    <osoba id="2"> 
+        <name>Zbyszko</name>
+        <surname>Tusk</surname>
+        <sex>Mężczyzna</sex>
+        <dateofbirth>1822-11-10</dateofbirth>
+        <number>318095885</number>
+    </osoba> 
+    <osoba id="3"> 
+        <name>Alojzy</name>
+        <surname>Yolo</surname>
+        <sex>Mężczyzna</sex>
+        <dateofbirth>2007-12-12</dateofbirth>
+        <number>242805399</number>
+        <number>534075188</number>
+    </osoba> 
+    <osoba id="4"> 
+        <name>Barbara</name>
+        <surname>N'mir</surname>
+        <sex>Kobieta</sex>
+        <dateofbirth>1513-11-22</dateofbirth>
+    </osoba> 
+    <osoba id="5"> 
+        <name>Eustachy</name>
+        <surname>N'mir</surname>
+        <sex>Mężczyzna</sex>
+        <dateofbirth>1530-12-18</dateofbirth>
+        <number>146298776</number>
+    </osoba> 
+    <osoba id="6"> 
+        <name>Gerwazy</name>
+        <surname>Słegmaster</surname>
+        <sex>Mężczyzna</sex>
+        <dateofbirth>1706-11-11</dateofbirth>
+    </osoba> 
+    <osoba id="7"> 
+        <name>Mirosława</name>
+        <surname>Yolo</surname>
+        <sex>Kobieta</sex>
+        <dateofbirth>1875-12-17</dateofbirth>
+        <number>671002981</number>
+    </osoba> 
+    <osoba id="8"> 
+        <name>Alojzy</name>
+        <surname>Namib</surname>
+        <sex>Mężczyzna</sex>
+        <dateofbirth>1351-12-27</dateofbirth>
+        <number>360610910</number>
+    </osoba> 
+    <osoba id="9"> 
+        <name>Mściwój</name>
+        <surname>Nołskołp</surname>
+        <sex>Mężczyzna</sex>
+        <dateofbirth>1568-11-12</dateofbirth>
+        <number>214962690</number>
+    </osoba> 
+    <osoba id="10"> 
+        <name>Zenobia</name>
+        <surname>Golonko</surname>
+        <sex>Kobieta</sex>
+        <dateofbirth>1270-12-20</dateofbirth>
+    </osoba> 
+    <osoba id="11"> 
+        <name>Stefania</name>
+        <surname>Korwin-Mikke</surname>
+        <sex>Kobieta</sex>
+        <dateofbirth>1087-11-16</dateofbirth>
+    </osoba> 
+    <osoba id="12"> 
+        <name>Gerwazy</name>
+        <surname>Słegmaster</surname>
+        <sex>Mężczyzna</sex>
+        <dateofbirth>1574-11-11</dateofbirth>
+        <number>291510139</number>
+        <number>831044326</number>
+    </osoba> 
+    <osoba id="13"> 
+        <name>Jurand</name>
+        <surname>Yolo</surname>
+        <sex>Mężczyzna</sex>
+        <dateofbirth>1428-10-25</dateofbirth>
+        <number>426595606</number>
+        <number>132131888</number>
+    </osoba> 
+    <osoba id="14"> 
+        <name>Stefania</name>
+        <surname>Namib</surname>
+        <sex>Kobieta</sex>
+        <dateofbirth>1780-10-25</dateofbirth>
+        <number>118015241</number>
+        <number>131585961</number>
+    </osoba> 
+    <osoba id="15"> 
+        <name>Eustachy</name>
+        <surname>Golonko</surname>
+        <sex>Mężczyzna</sex>
+        <dateofbirth>1195-11-27</dateofbirth>
+        <number>742807675</number>
+        <number>285616883</number>
+    </osoba> 
+    <osoba id="16"> 
+        <name>Mściwój</name>
+        <surname>Golonko</surname>
+        <sex>Mężczyzna</sex>
+        <dateofbirth>1190-11-22</dateofbirth>
+    </osoba> 
+    <osoba id="17"> 
+        <name>Mirosława</name>
+        <surname>Golonko</surname>
+        <sex>Kobieta</sex>
+        <dateofbirth>1557-11-19</dateofbirth>
+        <number>418810016</number>
+        <number>182921467</number>
+    </osoba> 
+    <osoba id="18"> 
+        <name>Eustachy</name>
+        <surname>Kononowicz</surname>
+        <sex>Mężczyzna</sex>
+        <dateofbirth>1703-12-15</dateofbirth>
+        <number>981923871</number>
+    </osoba> 
+    <osoba id="19"> 
+        <name>Zenobia</name>
+        <surname>Tusk</surname>
+        <sex>Kobieta</sex>
+        <dateofbirth>1625-12-23</dateofbirth>
+    </osoba> 
+    <osoba id="20"> 
+        <name>Barbara</name>
+        <surname>Namib</surname>
+        <sex>Kobieta</sex>
+        <dateofbirth>1244-11-19</dateofbirth>
+    </osoba> 
+    <osoba id="21"> 
+        <name>Zenobia</name>
+        <surname>Namib</surname>
+        <sex>Kobieta</sex>
+        <dateofbirth>1281-12-15</dateofbirth>
+    </osoba> 
+    <osoba id="22"> 
+        <name>Zdzisław</name>
+        <surname>Tusk</surname>
+        <sex>Mężczyzna</sex>
+        <dateofbirth>1938-11-18</dateofbirth>
+        <number>871759576</number>
+        <number>543072404</number>
+    </osoba> 
+    <osoba id="23"> 
+        <name>Mściwój</name>
+        <surname>Golonko</surname>
+        <sex>Mężczyzna</sex>
+        <dateofbirth>1859-11-27</dateofbirth>
+        <number>262942468</number>
+    </osoba> 
+    <osoba id="24"> 
+        <name>Mirosława</name>
+        <surname>Słegmaster</surname>
+        <sex>Kobieta</sex>
+        <dateofbirth>1979-11-24</dateofbirth>
+        <number>176169839</number>
+        <number>297240074</number>
+    </osoba> 
+    <osoba id="25"> 
+        <name>Barbara</name>
+        <surname>Nołskołp</surname>
+        <sex>Kobieta</sex>
+        <dateofbirth>1503-12-27</dateofbirth>
+    </osoba> 
+    <osoba id="26"> 
+        <name>Barbara</name>
+        <surname>Słegmaster</surname>
+        <sex>Kobieta</sex>
+        <dateofbirth>1552-10-25</dateofbirth>
+    </osoba> 
+    <osoba id="27"> 
+        <name>Zdzisława</name>
+        <surname>Komorowicz</surname>
+        <sex>Kobieta</sex>
+        <dateofbirth>1890-10-20</dateofbirth>
+        <number>871777304</number>
+        <number>338746773</number>
+    </osoba> 
+    <osoba id="28"> 
+        <name>Zbyszko</name>
+        <surname>Kononowicz</surname>
+        <sex>Mężczyzna</sex>
+        <dateofbirth>1167-11-28</dateofbirth>
+    </osoba> 
+    <osoba id="29"> 
+        <name>Gerwazy</name>
+        <surname>Korwin-Mikke</surname>
+        <sex>Mężczyzna</sex>
+        <dateofbirth>1944-11-28</dateofbirth>
+        <number>190563869</number>
+    </osoba> 
+    <osoba id="30"> 
+        <name>Stefania</name>
+        <surname>Golonko</surname>
+        <sex>Kobieta</sex>
+        <dateofbirth>1077-11-11</dateofbirth>
+        <number>646729088</number>
+        <number>738930512</number>
+    </osoba> 
+    <osoba id="31"> 
+        <name>Zbyszko</name>
+        <surname>N'mir</surname>
+        <sex>Mężczyzna</sex>
+        <dateofbirth>1739-11-26</dateofbirth>
+        <number>429759946</number>
+    </osoba> 
+    <osoba id="32"> 
+        <name>Andrzej</name>
+        <surname>Yolo</surname>
+        <sex>Mężczyzna</sex>
+        <dateofbirth>1209-10-11</dateofbirth>
+        <number>407454516</number>
+    </osoba> 
+    <osoba id="33"> 
+        <name>Zdzisław</name>
+        <surname>Yolo</surname>
+        <sex>Mężczyzna</sex>
+        <dateofbirth>1412-12-24</dateofbirth>
+        <number>173227795</number>
+    </osoba> 
+    <osoba id="34"> 
+        <name>Mirosława</name>
+        <surname>Nołskołp</surname>
+        <sex>Kobieta</sex>
+        <dateofbirth>1210-10-13</dateofbirth>
+    </osoba> 
+    <osoba id="35"> 
+        <name>Zenobia</name>
+        <surname>Tusk</surname>
+        <sex>Kobieta</sex>
+        <dateofbirth>1713-11-15</dateofbirth>
+        <number>523753894</number>
+    </osoba> 
+    <osoba id="36"> 
+        <name>Zenobia</name>
+        <surname>Yolo</surname>
+        <sex>Kobieta</sex>
+        <dateofbirth>1043-12-23</dateofbirth>
+        <number>737938748</number>
+        <number>778580045</number>
+    </osoba> 
+    <osoba id="37"> 
+        <name>Mirosława</name>
+        <surname>Yolo</surname>
+        <sex>Kobieta</sex>
+        <dateofbirth>1972-12-28</dateofbirth>
+        <number>186987987</number>
+        <number>543569136</number>
+    </osoba> 
+    <osoba id="38"> 
+        <name>Andrzej</name>
+        <surname>Korwin-Mikke</surname>
+        <sex>Mężczyzna</sex>
+        <dateofbirth>1155-12-17</dateofbirth>
+        <number>572776349</number>
+    </osoba> 
+    <osoba id="39"> 
+        <name>Andrzej</name>
+        <surname>Tusk</surname>
+        <sex>Mężczyzna</sex>
+        <dateofbirth>1135-12-24</dateofbirth>
+        <number>262673358</number>
+        <number>442757076</number>
+    </osoba> 
+    <osoba id="40"> 
+        <name>Mściwój</name>
+        <surname>Namib</surname>
+        <sex>Mężczyzna</sex>
+        <dateofbirth>1153-10-11</dateofbirth>
+        <number>213326562</number>
+    </osoba> 
+    <osoba id="41"> 
+        <name>Mirosława</name>
+        <surname>Yolo</surname>
+        <sex>Kobieta</sex>
+        <dateofbirth>1170-10-11</dateofbirth>
+        <number>761345336</number>
+    </osoba> 
+    <osoba id="42"> 
+        <name>Zenobia</name>
+        <surname>N'mir</surname>
+        <sex>Kobieta</sex>
+        <dateofbirth>1134-10-11</dateofbirth>
+        <number>495361186</number>
+    </osoba> 
+    <osoba id="43"> 
+        <name>Zdzisława</name>
+        <surname>Nołskołp</surname>
+        <sex>Kobieta</sex>
+        <dateofbirth>1634-11-11</dateofbirth>
+        <number>271498351</number>
+    </osoba> 
+    <osoba id="44"> 
+        <name>Alojzy</name>
+        <surname>N'mir</surname>
+        <sex>Mężczyzna</sex>
+        <dateofbirth>1312-12-21</dateofbirth>
+        <number>120580089</number>
+        <number>295915032</number>
+    </osoba> 
+    <osoba id="45"> 
+        <name>Mirosława</name>
+        <surname>Namib</surname>
+        <sex>Kobieta</sex>
+        <dateofbirth>1568-12-12</dateofbirth>
+    </osoba> 
+    <osoba id="46"> 
+        <name>Gerwazy</name>
+        <surname>Tusk</surname>
+        <sex>Mężczyzna</sex>
+        <dateofbirth>1282-12-23</dateofbirth>
+    </osoba> 
+    <osoba id="47"> 
+        <name>Zdzisław</name>
+        <surname>Blejz it</surname>
+        <sex>Mężczyzna</sex>
+        <dateofbirth>1333-10-19</dateofbirth>
+        <number>357727805</number>
+    </osoba> 
+    <osoba id="48"> 
+        <name>Mirosława</name>
+        <surname>Nołskołp</surname>
+        <sex>Kobieta</sex>
+        <dateofbirth>1175-11-12</dateofbirth>
+        <number>569012611</number>
+    </osoba> 
+    <osoba id="49"> 
+        <name>Jurand</name>
+        <surname>Tusk</surname>
+        <sex>Mężczyzna</sex>
+        <dateofbirth>1583-10-26</dateofbirth>
+        <number>147674976</number>
+        <number>567027952</number>
+    </osoba> 
+</data>

@@ -1,0 +1,16 @@
+import xml.etree.ElementTree as ET
+plik = open('listaludzi', 'r')
+
+
+tree = ET.parse('listaludzi.xml')
+root = tree.getroot()
+
+currentperson = ET.Element('Person')
+nr = str(1)
+
+currentperson.append(nr)
+
+imie = SubElement(currentperson, 'imie')
+imie.text = plik.read()
+
+print tostring(tree)
