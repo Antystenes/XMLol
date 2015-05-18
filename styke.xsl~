@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xsl:stylesheet version="1.0"
+xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
+
+<xsl:template match="/">
+  <html>
+  <body>
+  <h2>Tabelka lol</h2>
+  <table border="3">
+    <tr bgcolor="#ff00ff">
+      <th>Imię</th>
+      <th>Nazwisko</th>
+      <th>Płeć</th>
+      <th>Data</th>
+      <th>Numer 1</th>
+      <th>Numer 2</th>
+      </tr>
+    <xsl:for-each select="data/osoba">
+    <tr>
+      <td><xsl:value-of select="name"/></td>
+      <td><xsl:value-of select="surname"/></td>
+      <td><xsl:value-of select="sex"/></td>
+      <td><xsl:value-of select="dateofbirth"/></td>
+      <xsl:for-each select="number">
+      <td><xsl:value-of select="."/></td>
+      </xsl:for-each>
+    </tr>
+    </xsl:for-each>
+  </table>
+  </body>
+  </html>
+</xsl:template>
+
+</xsl:stylesheet>

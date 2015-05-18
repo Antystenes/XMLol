@@ -1,0 +1,32 @@
+<?xml version="1.0"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema"
+targetNamespace="http://www.w3schools.com"
+xmlns="http://www.w3schools.com"
+elementFormDefault="qualified">
+
+<xs:element name="data">
+    <xs:complexType>
+        <xs:element name="osoba" type="typeosoby" maxOccurs="100"/>
+    </xs:complexType>
+</xs:element>
+
+<xs:complexType name="typosoby">
+    <xs:sequence>
+        <xs:element name="name" type="xs:string"/>
+        <xs:element name="surname" type="xs:string"/>
+        <xs:element name="sex">
+            <xs:simpleType>
+                <xs:restriction base="xs:string">
+                <xs:enumeration value="Kobieta"/>
+                <xs:enumeration value="Mężczyzna"/>
+                </xs:restriction>
+            </xs:simpleType>
+        </xs:element>
+        <xs:element name="dateofbirth" type="xs:date"/>
+        <xs:element name="number" type="xs:integer"
+        minOccurs="0" maxOccurs="2"/>
+    </xs:sequence>
+
+    <xs:attribute name="id" type="xs:integer"/>
+</xs:complexType>
+</xs:schema>
